@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/python3
 """ 
 A function def pascal_triangle(n): 
 returns a list of lists of integers 
